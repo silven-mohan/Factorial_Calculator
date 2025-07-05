@@ -14,4 +14,12 @@ Enter any number:5
 Factorial of 5 is :120
 ```
 
-## Autor-Silven Mohan
+---
+
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
+---
+
+## Author: Silven Mohan
