@@ -1,5 +1,8 @@
 # Factorial_Calculator
 
+![CI](https://github.com/silven-mohan/Factorial_Calculator/actions/workflows/.github/workflows/main.yml/badge.svg)
+
+-----
 
 This is a simple CLI-based C program that calculates the factorial of a given number. It uses a decrementing `for` loop and an accumulator variable.
 
